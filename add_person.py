@@ -1,5 +1,5 @@
 #add_person.py
-from face_authentic import setup
+from face_authentic import config
 import cognitive_face as CF
 import glob
 KEY = setup.APIKEY
