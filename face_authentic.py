@@ -1,6 +1,6 @@
 #face_authentic.py
 from face_authentic.face_detec import Detection
-from face_authentic import setup
+from face_authentic import config
 import cognitive_face as CF
 import cv2
 RETURN_TIMES = 1
